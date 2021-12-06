@@ -18,7 +18,7 @@ opportunities to refactor code.
 ### **Context**
 The data of interest that will serve as the context for this code performance
 analysis are stocks from 2017 and 2018 from 12 different green energy companies
-([VBA_challenge.zip](/VBA_challenge.zip)). The objective is to see which stocks
+([VBA_challenge.xlsm](/VBA_challenge.xlsm)). The objective is to see which stocks
 have been producing positive yearly returns with the idea that these would be
 chosen for personal investment. Subroutines were created in VBA to automate the
 calculations of total daily volume and yearly return. Code execution time is
